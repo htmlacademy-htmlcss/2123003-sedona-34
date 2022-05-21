@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sviatoslav Pasko](https://up.htmlacademy.ru/htmlcss/34/user/2123003).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Лесухин] (https://htmlacademy.ru/profile/caneklis).
 
 ---
 
